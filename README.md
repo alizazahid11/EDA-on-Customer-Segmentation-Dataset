@@ -3,7 +3,6 @@
 #### **Objective**
 The primary goal of this project is to perform Exploratory Data Analysis (EDA) on a customer segmentation dataset to uncover insights into customer demographics, purchasing behaviors, and transaction patterns. These insights will help identify potential segments for targeted marketing strategies.
 
----
 
 ### **Table of Contents**
 1. [Project Overview](#project-overview)
@@ -14,12 +13,10 @@ The primary goal of this project is to perform Exploratory Data Analysis (EDA) o
 6. [How to Run the Code](#how-to-run-the-code)
 7. [Expected Outcomes](#expected-outcomes)
 
----
 
 ### **Project Overview**
 This project involved cleaning, analyzing, and visualizing a customer dataset to derive actionable insights. The focus was on understanding customer demographics, spending behaviors, and purchasing patterns.
 
----
 
 ### **Steps Performed**
 
@@ -47,20 +44,17 @@ This project involved cleaning, analyzing, and visualizing a customer dataset to
    - Heatmaps for correlations.
    - Pie charts for customer segment proportions.
 
----
 
 ### **Dataset Description**
 - **Source:** (Mention dataset source, e.g., Kaggle or a custom source)
 - **Features:** Briefly describe key features (e.g., Age, Income, Spending Score, Gender).
 - **Size:** Mention the number of rows and columns.
 
----
 
 ### **Technologies Used**
 - Python
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
----
 
 ### **Visualizations and Insights**
 Here are some key visualizations and findings:
@@ -68,7 +62,6 @@ Here are some key visualizations and findings:
 2. **Gender Trends:** (Add insight, e.g., "Females show slightly higher purchase frequencies.")
 3. **Income vs. Spending:** (Add insight, e.g., "Higher-income groups contribute significantly to premium sales.")
 
----
 
 ### **How to Run the Code**
 1. Clone the repository:
@@ -88,22 +81,18 @@ Here are some key visualizations and findings:
    python analysis.py
    ```
 
----
 
 ### **Expected Outcomes**
 - **Demographic Insights:** Understand the age, gender, and income distribution.
 - **Behavioral Patterns:** Identify high-value customers and purchasing trends.
 - **Marketing Recommendations:** Derive strategies for improving customer engagement.
 
----
 
 ### **Author**
 - Name: [Your Name]
 - GitHub: [Your GitHub Profile Link]
 
----
 
 ### **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
